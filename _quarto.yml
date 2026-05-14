@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+      - images/
+      
 website:
-  title: "Rachel Carboni's 1st Quarto Website"
+  title: "Rachel's First Website"
   navbar:
     left:
       - href: index.qmd
