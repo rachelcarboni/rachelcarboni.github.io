@@ -4,7 +4,7 @@ title: "Rachel Carboni"
 
 ![](images/carboni_picture.jpg){width=200px style="border-radius: 50%;"}
 
-PhD candidate at Nord University. My research aims to understand the mechanisms that create and maintain phenotypic diversity using Atlantic salmon as a model organism. 
+PhD candidate at Nord University researching the mechanisms that create and maintain phenotypic diversity using Atlantic salmon as a model organism. 
 
 ## Research Interests
 
