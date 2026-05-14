@@ -1,20 +1,24 @@
 ---
-title: "Rachel Carson"
+title: "Rachel Carboni"
 ---
 
-Marine biologist, conservationist, and science writer.
+![](images/carboni_picture.jpg){width=200px style="border-radius: 50%;"}
+
+PhD candidate at Nord University. My research aims to understand the mechanisms that create and maintain phenotypic diversity using Atlantic salmon as a model organism. 
 
 ## Research Interests
 
-- Marine ecosystems
-- Conservation
-- Environmental pollution
+- Adaptive divergence and gene regulatory networks
+- Genotype-to-phenotype mapping
+- Phenotypic variation and life-history traits
+- Decomposition ecology and saprotrophic fungi
 
-## Recent Work
+## News
 
-- Silent Spring (1962)
-- The Sea Around Us (1951)
+- **May 2026** Event Manager for [Pint of Science](https://pintofscienceno.wixsite.com/norway/pint26-program/bod%C3%B8) in Bodø
+- **July 2026** Attending SMBE conference, Copenhagen
+- **February 2025** Started PhD at Nord University
 
 ## Contact
 
-email@example.com
+rachel.l.carboni@nord.no

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Rachel Carson's quarto website"
+  title: "Rachel Carboni's 1st Quarto Website"
   navbar:
     left:
       - href: index.qmd
