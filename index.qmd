@@ -4,21 +4,23 @@ title: "Rachel Carboni"
 
 ![](images/carboni_picture.jpg){width=200px style="border-radius: 50%;"}
 
-PhD candidate at Nord University researching the mechanisms that create and maintain phenotypic diversity using Atlantic salmon as a model organism. 
+PhD candidate at Nord University researching the genetic and molecular mechanisms underlying phenotypic diversity Atlantic salmon. 
 
 ## Research Interests
 
-- Adaptive divergence and gene regulatory networks
-- Genotype-to-phenotype mapping
-- Phenotypic variation and life-history traits
-- Decomposition ecology and saprotrophic fungi
+- Functional genomics
+- Molecular basis of life-history evolution
+- Population genomics
+- Adaptive evolution  
 
 ## News
 
-- **May 2026** Event Manager for [Pint of Science](https://pintofscienceno.wixsite.com/norway/pint26-program/bod%C3%B8) in Bodø
 - **July 2026** Attending SMBE conference, Copenhagen
+- **May 2026** Event Manager for [Pint of Science](https://pintofscienceno.wixsite.com/norway/pint26-program/bod%C3%B8) in Bodø
 - **February 2025** Started PhD at Nord University
 
 ## Contact
 
-rachel.l.carboni@nord.no
+- Email: rachel.l.carboni@nord.no
+- [LinkedIn](https://www.linkedin.com/in/rachelcarboni/)
+
